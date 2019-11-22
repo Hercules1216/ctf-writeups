@@ -15,4 +15,4 @@ for i in range(len(key)):
 for i in range(26):
     for j in range(len(key)):
         print(cipherArray[key[j] - 1][i], end="")
-    print("\n")
+    print("")

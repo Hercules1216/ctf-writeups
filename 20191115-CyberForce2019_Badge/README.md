@@ -94,7 +94,7 @@ Our image is extracted and wrote to `stego1.jpg`
 
 https://docdro.id/tjwUQOO
 
-Opening the link and entering `INCEPTION` gives us our next challeng.
+Opening the link and entering `INCEPTION` gives us our next challenge.
 
 ![pdf1](assets/jt_photo.png)
 
@@ -132,7 +132,7 @@ for i in range(len(key)):
 for i in range(26):
     for j in range(len(key)):
         print(cipherArray[key[j] - 1][i], end="")
-    print("\n")
+    print("")
 ```
 Running that script gives us the output
 ```
