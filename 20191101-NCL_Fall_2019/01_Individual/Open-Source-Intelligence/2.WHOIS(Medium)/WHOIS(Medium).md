@@ -1,6 +1,5 @@
 # WHOIS (Medium)
 ## Research conduct open source intelligence data collection about cyberskyline.com. Answer the following questions as they relate to the cyberskyline.com domain. 
-`MECHANIC and HUMMINGBIRD are being transported from CASTLE to CURBSIDE via BAMBOO.`
 
 
 -	Who is the registrar of this domain?
